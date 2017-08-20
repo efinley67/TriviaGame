@@ -1,0 +1,30 @@
+.jumbotron {
+  text-align: center;
+  border: 20px solid #c20a30;
+}
+
+#main-header {
+  background-color: #002768;
+  padding: 70px 0px 70px 0px;
+  margin: -50px 0px -50px 0px;
+  color: #ffffff;
+}
+
+body {
+  background-image: url("../images/fresh-snow.png");
+}
+
+h2 {
+  text-align: center;
+  color: #c20a30;
+}
+
+#rules{
+  border: 2px solid #000000;
+}
+
+#grand-prismatic {
+  background-image: url("../images/grand-prismatic.jpg");
+  height: 400px;
+  width: auto;
+}
